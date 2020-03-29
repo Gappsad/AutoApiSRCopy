@@ -79,6 +79,6 @@ def main():
         print("pass")
         pass
 for _ in range(22): 
-    for i in range(random.randint(100,300),0,-1):
+    for i in range(random.randint(300,600),0,-1):
         time.sleep(1)
     main()
